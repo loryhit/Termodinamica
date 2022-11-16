@@ -1,1 +1,1 @@
-jupyterlab-link-share 0.2
+numpy 1.2.4
