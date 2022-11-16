@@ -1,4 +1,1 @@
-math
-numpy
-scipy
-jupyterlab-link-share
+jupyterlab-link-share 0.2
